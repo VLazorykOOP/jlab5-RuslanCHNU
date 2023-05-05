@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class Lab5_1 {
+public class Lab5_2 {
     public static void main(String[] args) {
         // Створюємо список для зберігання назв віршів
         List<String> poems = new ArrayList<>();
